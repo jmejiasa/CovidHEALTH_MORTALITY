@@ -1,15 +1,18 @@
 # CovidHEALTH_MORTALITY
-en: This project website is an academic practice, for web data extraction purposes.
+
+## english
+
+This project website is an academic practice, for web data extraction purposes.
 
 Extraction process uses python's technologies.
 
 The extraction process, obtains data by consumption from OECD's website https://stats.oecd.org/, related to weekly mortality statistics by country, originated in the global pandemic by coronavirus COVID19.
 
-Using data rights: covered by terms described inside https://www.oecd.org/termsandconditions/ page.
+Using data rights: covered by terms described inside https://www.oecd.org/termsandconditions/ page.\\
 
 
-
-es: Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
+## spanish
+Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
 
 El proceso de extracción utiliza tecnologías de Python.
 
