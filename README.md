@@ -24,7 +24,7 @@ This activity was individually performed by José A. Mejía Sánchez.
 
 ### View of data structure, implemented as table (row vs column):
 ![dataset structure](https://github.com/jmejiasa/CovidHEALTH_MORTALITY/blob/main/imgOECDdata.png)
-The first column shows the week, the other columns corresponding to the information of the affected countries, the information in the rows is the specific mortality data.
+The first column shows the week number, remaining columns shows information of affected countries, the information in those columns is the specific numeric mortality data.
 
 
 
