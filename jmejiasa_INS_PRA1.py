@@ -26,14 +26,9 @@ oTcells = oHeadRows[4].find_all("th")
 sEncabezados = "vacio"
 sArrData =[]
 sArrData.append([])
-#insert_index=0
+sEncabezados ="vacio"
 import numpy as np
-for cell in oTcells:
-    #if insert_index >0:	
-        #if sEncabezados =="vacio":
-        #    sEncabezados =  "'" + cell.get_text() +	"'"
-        #else:
-        #    sEncabezados = sEncabezados + ",'" +cell.get_text() + "'"   	
+for cell in oTcells:		
     sValorActual=''	
     sValorActual = cell.get_text()
     sValorActual = sValorActual.replace(u'\xa0', '')
@@ -65,7 +60,13 @@ for row in oRows:
     iApuntadorFila=iApuntadorFila+1
 
 print('Total filas: ' + str(len(sArrData)))
-print(sArrData)
+sArchivoDestino = 'C:\\Pra1\\ResultOECD.csv' 
+import csv
+with open(sArchivoDestino, 'w', newline='') as csvFile:
+  writer = csv.writer(csvFile)
+  for oRowCovid in sArrData:
+	  writer.writerow(oRowCovid) #.to_csv(index=False)
+
 
 
 
