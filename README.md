@@ -8,7 +8,7 @@ Extraction process uses python's technologies.
 
 The extraction process, obtains data by consumption from OECD's website https://stats.oecd.org/, related to weekly mortality statistics by country, originated in the global pandemic by coronavirus COVID19.
 
-Using data rights: covered by terms described inside https://www.oecd.org/termsandconditions/ page.\\
+Using data rights: covered by terms described inside https://www.oecd.org/termsandconditions/ page.
 
 
 ### Team Members
@@ -19,7 +19,7 @@ This activity was individually performed by José A. Mejía Sánchez.
   <li>ResultOECD.csv: Dataset result from data extraction</li>
   <li>jmejiasa_INS_PRA1.py: python script used for data extraction</li>
 </ol>
-
+\
 
 ## spanish
 Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
