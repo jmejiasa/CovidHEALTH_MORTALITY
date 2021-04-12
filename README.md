@@ -37,7 +37,7 @@ El proceso de extracción, obtiene datos mediante consumo del sitio web de la OC
 
 Uso de derechos de datos: cubiertos por los términos descritos en la página https://www.oecd.org/termsandconditions/.
 
-Inspirado en mi propia experiencia de actividades de apoyo tecnológico de covid, y en su sorprendente impacto diario, en todas las personas, incluso en las que no lo esperan.
+Inspirado en mi propia experiencia de actividades de apoyo tecnológico de covid19, y en su sorprendente impacto diario en todas las personas, principalmente en las que menos seria esperado dicho impacto.
 
 ### Miembros del equipo
 Esta actividad fue desarrollada individualmente por José A. Mejía Sánchez
