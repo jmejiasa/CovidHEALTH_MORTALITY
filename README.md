@@ -45,3 +45,11 @@ Esta actividad fue desarrollada individualmente por José A. Mejía Sánchez
   <li>ResultOECD.csv: Dataset resultado de la extracción de data</li>
   <li>jmejiasa_INS_PRA1.py: script python para la extracción de data</li>
 </ol>
+
+### Publicado bajo CC0: Licencia de dominio público, relacionada con información de salud pública
+
+### Visualización de la estructura de datos, implementada como tabla (fila vs columna):
+![dataset structure](https://github.com/jmejiasa/CovidHEALTH_MORTALITY/blob/main/imgOECDdata.png)
+
+En la primera columna se describe número de semana, correspondiendo las demás columnas a la información de los países afectados, la información en las filas son los datos numéricos específicos de mortalidad.
+
