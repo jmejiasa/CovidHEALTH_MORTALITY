@@ -10,6 +10,7 @@ The extraction process, obtains data by consumption from OECD's website https://
 
 Using data rights: covered by terms described inside https://www.oecd.org/termsandconditions/ page.
 
+Inspired in my own covid technologic support activities experience, and his daily surprising impact, in all people, even who doesnt wait it.
 
 ### Team Members
 This activity was individually performed by José A. Mejía Sánchez.
@@ -27,7 +28,6 @@ This activity was individually performed by José A. Mejía Sánchez.
 The first column shows the week number, remaining columns shows information of affected countries, the information in those columns is the specific numeric mortality data.
 
 
-
 ## SPANISH
 Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
 
@@ -36,6 +36,8 @@ El proceso de extracción utiliza tecnologías de Python.
 El proceso de extracción, obtiene datos mediante consumo del sitio web de la OCDE https://stats.oecd.org/, relacionado con estadisticas de mortalidad semanal por país, originada en la pandemia global por coronavirus COVID19.
 
 Uso de derechos de datos: cubiertos por los términos descritos en la página https://www.oecd.org/termsandconditions/.
+
+Inspirado en mi propia experiencia de actividades de apoyo tecnológico de covid, y en su sorprendente impacto diario, en todas las personas, incluso en las que no lo esperan.
 
 ### Miembros del equipo
 Esta actividad fue desarrollada individualmente por José A. Mejía Sánchez
