@@ -15,10 +15,10 @@ Using data rights: covered by terms described inside https://www.oecd.org/termsa
 This activity was individually performed by José A. Mejía Sánchez.
 
 ### Source Files
-src/main.py: punto de entrada al programa. Inicia el proceso de scraping.
-src/scraper.py: contiene la implementación de la clase AccidentsScraper cuyos métodos generan el conjunto de datos a partir de la base de datos online PlaneCrashInfo.
-src/reason_classifier.py: contiene la implementación de la clase que se encarga de asignar una causa a un resumen de accidente dado. Para ello, utiliza la librería TextBlob.
-
+<ol>
+  <li>ResultOECD.csv: Dataset result from data extraction</li>
+  <li>jmejiasa_INS_PRA1.py: python script used for data extraction</li>
+</ol>
 
 
 ## spanish
@@ -30,10 +30,11 @@ El proceso de extracción, obtiene datos mediante consumo del sitio web de la OC
 
 Uso de derechos de datos: cubiertos por los términos descritos en la página https://www.oecd.org/termsandconditions/.
 
-## Miembros del equipo
+### Miembros del equipo
 Esta actividad fue desarrollada individualmente por José A. Mejía Sánchez
 
-## Source Files
-src/main.py: punto de entrada al programa. Inicia el proceso de scraping.
-src/scraper.py: contiene la implementación de la clase AccidentsScraper cuyos métodos generan el conjunto de datos a partir de la base de datos online PlaneCrashInfo.
-src/reason_classifier.py: contiene la implementación de la clase que se encarga de asignar una causa a un resumen de accidente dado. Para ello, utiliza la librería TextBlob.
+### Código Fuente
+<ol>
+  <li>ResultOECD.csv: Dataset resultado de la extracción de data</li>
+  <li>jmejiasa_INS_PRA1.py: script python para la extracción de data</li>
+</ol>
