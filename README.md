@@ -20,6 +20,13 @@ This activity was individually performed by José A. Mejía Sánchez.
   <li>jmejiasa_INS_PRA1.py: python script used for data extraction</li>
 </ol>
 
+### Released Under CC0: Public Domain License, related to public health information. 
+
+### View of data structure, implemented as table (row vs column):
+![dataset structure](https://github.com/jmejiasa/CovidHEALTH_MORTALITY/blob/main/imgOECDdata.png)
+The first column shows the week, the other columns corresponding to the information of the affected countries, the information in the rows is the specific mortality data.
+
+
 
 ## SPANISH
 Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
