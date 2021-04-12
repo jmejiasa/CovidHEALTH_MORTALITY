@@ -1,6 +1,6 @@
 # CovidHEALTH_MORTALITY
 
-## english
+## ENGLISH
 
 This project website is an academic practice, for web data extraction purposes.
 
@@ -19,9 +19,9 @@ This activity was individually performed by José A. Mejía Sánchez.
   <li>ResultOECD.csv: Dataset result from data extraction</li>
   <li>jmejiasa_INS_PRA1.py: python script used for data extraction</li>
 </ol>
-\
 
-## spanish
+
+## SPANISH
 Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
 
 El proceso de extracción utiliza tecnologías de Python.
