@@ -11,6 +11,16 @@ The extraction process, obtains data by consumption from OECD's website https://
 Using data rights: covered by terms described inside https://www.oecd.org/termsandconditions/ page.\\
 
 
+### Team Members
+This activity was individually performed by José A. Mejía Sánchez.
+
+### Source Files
+src/main.py: punto de entrada al programa. Inicia el proceso de scraping.
+src/scraper.py: contiene la implementación de la clase AccidentsScraper cuyos métodos generan el conjunto de datos a partir de la base de datos online PlaneCrashInfo.
+src/reason_classifier.py: contiene la implementación de la clase que se encarga de asignar una causa a un resumen de accidente dado. Para ello, utiliza la librería TextBlob.
+
+
+
 ## spanish
 Este sitio web de proyecto es una práctica académica, con propositos de extracción de datos web.
 
@@ -20,3 +30,10 @@ El proceso de extracción, obtiene datos mediante consumo del sitio web de la OC
 
 Uso de derechos de datos: cubiertos por los términos descritos en la página https://www.oecd.org/termsandconditions/.
 
+## Miembros del equipo
+Esta actividad fue desarrollada individualmente por José A. Mejía Sánchez
+
+## Source Files
+src/main.py: punto de entrada al programa. Inicia el proceso de scraping.
+src/scraper.py: contiene la implementación de la clase AccidentsScraper cuyos métodos generan el conjunto de datos a partir de la base de datos online PlaneCrashInfo.
+src/reason_classifier.py: contiene la implementación de la clase que se encarga de asignar una causa a un resumen de accidente dado. Para ello, utiliza la librería TextBlob.
